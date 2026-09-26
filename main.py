@@ -1,1 +1,1 @@
-print("Salom, GitHub!")
+print("Salom, men GitHub bilan ishlayapman!")
